@@ -1,0 +1,2 @@
+# MyGraphProperties
+Homework
